@@ -1,4 +1,4 @@
-#Welcome
+Welcome
 
 Ultra Violet is a 2D side-scrolling platform game developed for my HCI 2018 project. It studied how developing a game with biofeedback input could augment traditional controls and increase player enjoyment.
 
