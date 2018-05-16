@@ -26,5 +26,4 @@ Drew Noma - djknoma@gmail.com
 Change log below:
 
 Version 1.0.0
-
-      * First version of the game with Affdex facial expression tracking (joy and anger/frustration) and Tobii eye tracking.
+* First version of the game with Affdex facial expression tracking (joy and anger/frustration) and Tobii eye tracking.
