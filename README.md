@@ -3,6 +3,12 @@
 
 This project studied how developing a game with biofeedback input could augment traditional controls and increase player enjoyment. This game was developed in Unity using C#. The various biofeedback signals used were facial expression/emotion tracking via the Affectiva Affdex Unity SDK (https://knowledge.affectiva.com/v3.2/docs/getting-started-with-the-emotion-sdk-for-unity) and eye tracking via Tobii Unity SDK (https://developer.tobii.com/tobii-unity-sdk/). Facial expression tracking was used to examine player physiological state during game play. To conduct the study, the 2D platform game compared game play with various biofeedback inputs to game play without biofeedback. The results of the study showed that participants preferred playing the game with physiological controls. This has a few implications not just on designing games with physiological input in mind, but on game design in general: (1) Physiological input should be designed in an intuitive manner, combining the physiological input with a traditional input, if necessary, if it gives the player more control over the mechanic; (2) Tracking the player's emotional state during game play can provide immediate responses, but should not be overdone as to make the difficulty of the game too easy.
 
+### Biofeedback - Tobii eye tracking
+![](https://github.com/dknoma/ultraviolet/blob/master/bf.gif)
+
+### Control - controller input
+![](https://github.com/dknoma/ultraviolet/blob/master/ctrl.gif)
+
 ## Compatibility
 Windows only. (Until the Tobii developers provide MacOSX & Linux support)
 
