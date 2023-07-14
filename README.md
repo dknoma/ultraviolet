@@ -22,8 +22,24 @@ Drew Noma - djknoma@gmail.com
 
 [https://github.com/dknoma](https://github.com/dknoma)
 
+## Credits
+Shovel Knight: Treasure Trove. Yacht Club Games, LLC, 2014.
+
 # Revision History
 Change log below:
 
+Version 1.0.1
+* Updated README with credits and disclaimer.
+
 Version 1.0.0
 * First version of the game with Affdex facial expression tracking (joy and anger/frustration) and Tobii eye tracking.
+
+# Fair Use
+This site and contents of the repository are for educational purposes only.
+
+Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
+
+Fair use is a use permitted by copyright statute that might otherwise be infringing.
+
+## Fair Use Definition
+Fair use is a doctrine in United States copyright law that allows limited use of copyrighted material without requiring permission from the rights holders, such as commentary, criticism, news reporting, research, teaching or scholarship. It provides for the legal, non-licensed citation or incorporation of copyrighted material in another author’s work under a four-factor balancing test.
